@@ -1,2 +1,1 @@
-# StudentRegister
-student registration web services
+# StudentRegistration
